@@ -2,7 +2,7 @@
 	"version_code":25,
 	"version_name": "Search 'pub:gsmedia music downloader' on Google Play Store",
 	"require_update": true, 
-	"disable_online": true,
+	"disable_online": false,
 	"isOffAdmob": false,
 	"isOffFan":true,
 	"hideRate":true,

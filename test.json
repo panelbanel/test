@@ -6,6 +6,6 @@
 	"isOffAdmob": false,
 	"isOffFan":true,
 	"hideRate":true,
-	"data_type":0,
+	"data_type":1,
 	"percent_AdmobVsFan":100
 }
